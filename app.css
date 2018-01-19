@@ -21,7 +21,7 @@ nav ul li {
   padding-top: 10px; 
   bottom: 20px;
   flex-wrap: wrap;
-  width: 20px;
+  width: 100px;
   margin: 2px 2px 15px 2px;
   text-align: center;
   cursor: pointer;
