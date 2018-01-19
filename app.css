@@ -7,12 +7,12 @@ div {
 }
 nav ul {
   display: flex;
-  justify-content: space-around;
-  flex-wrap: wrap;
+  justify-content: space-between;
+  flex-wrap: right;
   list-style: none;
   padding: 0px;
   margin: auto;
-  max-width: 550px;
+  max-width: -500px;
 }
 ul li {
 	background-color: blue; 
@@ -21,11 +21,11 @@ nav ul li {
   padding-top: 10px; 
   bottom: 20px;
   flex-wrap: wrap;
-  width: 10px;
-  margin: 2px 2px 15px 2px;
+  width: 100px;
+  margin: 15px 15px 15px 15px;
   text-align: center;
   cursor: pointer;
-  font-size: 20px;
+  font-size: 22px;
   font-family: 'Source Sans Pro';
   height: 20px;
   line-height: 10px;
@@ -120,3 +120,4 @@ footer {
   clear: both;
 }
 }
+
