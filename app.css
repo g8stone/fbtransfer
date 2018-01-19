@@ -7,13 +7,12 @@ div {
 }
 nav ul {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   flex-wrap: wrap;
   list-style: none;
   padding: 0px;
   margin: auto;
-  margin-bottom: 24px;
-  max-width: 300px;
+  max-width: 550px;
 }
 ul li {
 	background-color: blue; 
